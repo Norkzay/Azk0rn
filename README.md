@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shimotsuki</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azk0rn&label=Profile%20views&color=0e75b6&style=flat" alt="azk0rn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azk0rn" alt="azk0rn" /></a> </p>
 
 - 🔭 I’m currently working on **LosSantosStory**
 
