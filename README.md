@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=fr&hide_border=false&username=Az" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=Az" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=fr&hide_border=false&username=Azk0rn" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=Azk0rn" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Az/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Azk0rn/count.svg?"  />
 </div>
 
 ###
@@ -48,4 +48,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Az/Az/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Azk0rn/Azk0rn/blob/output/snake.svg" alt="Snake animation" />
