@@ -49,6 +49,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Az/Az/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
