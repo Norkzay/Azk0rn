@@ -45,7 +45,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Azk0rn/Azk0rn/blob/output/snake.svg" alt="Snake animation" />
